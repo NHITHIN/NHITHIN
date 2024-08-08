@@ -5,7 +5,6 @@
 - 📫 How to reach me:
 - [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](www.linkedin.com/in/nhithin-a-r-2b1004261)
 &nbsp;
-[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: ...
 
